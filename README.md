@@ -1,6 +1,6 @@
 # Quotes Generator
 
-![Design preview](./screenshots/1.png)
+![Design preview](./screenshots/2.png)
 
 ## Welcome! 👋
 
@@ -21,8 +21,8 @@ The goal of this project is to develop my understanding of typescript and to imp
 
 ### Screenshot
 
-![Screenshot](./screenshots/1.png)
 ![Screenshot](./screenshots/2.png)
+![Screenshot](./screenshots/1.png)
 
 ## My process
 
